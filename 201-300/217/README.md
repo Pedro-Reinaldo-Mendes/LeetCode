@@ -4,9 +4,8 @@
 
 ## Performance
 
-- **Runtime:** 10 ms
-- **Memory Usage:** 98.12 MB
-- **Beats:** 98.21% (Runtime), 5.19% (Memory)
+- **Runtime:** 10 ms (Beats 98.21%)
+- **Memory Usage:** 98.12 MB (Beats 5.19%)
 
 ## Complexity Analysis
 
