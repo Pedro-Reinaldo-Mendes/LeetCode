@@ -5,6 +5,7 @@
 | Problem | Difficulty | Runtime | Memory |
 | :--- | :--- | :--- | :--- |
 | [1. Two Sum](./1-100/1/README.md) | Easy | 2 ms (Beats 99.13%) | 47.39 MB (Beats 16.46%) |
+| [15. 3Sum](./1-100/15/README.md) | Medium | 29 ms (Beats 91.31%) | 59.38 MB (Beats 41.06%) |
 | [36. Valid Sudoku](./1-100/36/README.md) | Medium | 2 ms (Beats 66.79%) | 46.59 MB (Beats 47.76%) |
 | [49. Group Anagrams](./1-100/49/README.md) | Medium | 6 ms (Beats 99.26%) | 49.50 MB (Beats 89.42%) |
 | [125. Valid Palindrome](./101-200/125/README.md) | Easy | 2 ms (Beats 98.80%) | 43.94 MB (Beats 97.60%) |
