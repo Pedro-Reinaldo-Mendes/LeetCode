@@ -1,0 +1,24 @@
+# 258. Add Digits
+
+[LeetCode Problem Link](https://leetcode.com/problems/add-digits/)
+
+## Performance
+
+- **Runtime**: 1 ms (Beats 97.66%)
+- **Memory**: 42.26 MB (Beats 97.04%)
+
+## Complexity Analysis
+
+- **Time Complexity**: $O(1)$. We use a mathematical formula to compute the result in constant time, without any loops or recursion.
+- **Space Complexity**: $O(1)$. We do not use any extra space.
+
+## Approach
+
+The problem asks us to repeatedly add all digits of a number until the result has only one digit. This is known as calculating the **Digital Root** of a number.
+
+There is a known mathematical pattern for this:
+-   If `num == 0`, the digital root is 0.
+-   If `num > 0` and `num % 9 == 0`, the digital root is 9.
+-   Otherwise, the digital root is `num % 9`.
+
+This can be summarized by the formula: `1 + (num - 1) % 9`, although handling it with conditional checks (or a ternary operator) as implemented is just as efficient and readable.

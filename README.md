@@ -17,6 +17,7 @@
 | [226. Invert Binary Tree](./201-300/226/README.md) | Easy | 0 ms (Beats 100.00%) | 42.97 MB (Beats 57.41%) |
 | [238. Product of Array Except Self](./201-300/238/README.md) | Medium | 2 ms (Beats 94.29%) | 72.43 MB (Beats 11.95%) |
 | [242. Valid Anagram](./201-300/242/README.md) | Easy | 2ms (Beats 99.25%) | 44.62MB (Beats 52.95%) |
+| [258. Add Digits](./201-300/258/README.md) | Easy | 1 ms (Beats 97.66%) | 42.26 MB (Beats 97.04%) |
 | [347. Top K Frequent Elements](./301-400/347/README.md) | Medium | 11 ms (Beats 94.67%) | 47.22 MB (Beats 96.04%) |
 | [791. Custom Sort String](./701-800/791/README.md) | Medium | 4 ms (Beats 24.16%) | 43.10 MB (Beats 44.69%) |
 | [977. Squares of a Sorted Array](./901-1000/977/README.md) | Easy | 1 ms (Beats 99.83%) | 47.17 MB (Beats 83.05%) |
