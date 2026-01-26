@@ -1,0 +1,25 @@
+# 226. Invert Binary Tree
+
+[LeetCode Problem Link](https://leetcode.com/problems/invert-binary-tree/)
+
+## Performance
+
+- **Runtime**: 0 ms (Beats 100.00%)
+- **Memory**: 42.97 MB (Beats 57.41%)
+
+## Complexity Analysis
+
+- **Time Complexity**: $O(N)$, where $N$ is the number of nodes in the binary tree. We visit each node exactly once.
+- **Space Complexity**: $O(H)$, where $H$ is the height of the tree. This is due to the recursion stack. In the worst case (skewed tree), $H = N$. In the best case (balanced tree), $H = \log N$.
+
+## Approach
+
+The problem asks to invert a binary tree, meaning for every node, its left and right children are swapped.
+
+1.  **Recursion**: We use a standard recursive approach.
+2.  **Base Case**: If the current `root` is `null`, we return `null` because there's nothing to invert.
+3.  **Recursive Step**:
+    -   We recursively call `invertTree` on the **left child** and store the result temporarily.
+    -   We recursively call `invertTree` on the **right child** and assign the result to the **left child** of the current root.
+    -   We assign the stored temporary result (the inverted original left child) to the **right child** of the current root.
+4.  **Result**: Finally, we return the `root` of the now inverted subtree.

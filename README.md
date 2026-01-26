@@ -11,6 +11,7 @@
 | [125. Valid Palindrome](./101-200/125/README.md) | Easy | 2 ms (Beats 98.80%) | 43.94 MB (Beats 97.60%) |
 | [128. Longest Consecutive Sequence](./101-200/128/README.md) | Medium | 29 ms (Beats 81.12%) | 95.79 MB (Beats 47.31%) |
 | [217. Contains Duplicate](./201-300/217/README.md) | Easy | 10 ms (Beats 98.21%) | 98.12 MB (Beats 5.19%) |
+| [226. Invert Binary Tree](./201-300/226/README.md) | Easy | 0 ms (Beats 100.00%) | 42.97 MB (Beats 57.41%) |
 | [238. Product of Array Except Self](./201-300/238/README.md) | Medium | 2 ms (Beats 94.29%) | 72.43 MB (Beats 11.95%) |
 | [242. Valid Anagram](./201-300/242/README.md) | Easy | 2ms (Beats 99.25%) | 44.62MB (Beats 52.95%) |
 | [347. Top K Frequent Elements](./301-400/347/README.md) | Medium | 11 ms (Beats 94.67%) | 47.22 MB (Beats 96.04%) |
