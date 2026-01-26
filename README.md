@@ -7,6 +7,7 @@
 | [1. Two Sum](./1-100/1/README.md) | Easy | 2 ms (Beats 99.13%) | 47.39 MB (Beats 16.46%) |
 | [11. Container With Most Water](./1-100/11/README.md) | Medium | 4 ms (Beats 93.38%) | 77.40 MB (Beats 39.28%) |
 | [15. 3Sum](./1-100/15/README.md) | Medium | 29 ms (Beats 91.31%) | 59.38 MB (Beats 41.06%) |
+| [20. Valid Parentheses](./1-100/20/README.md) | Easy | 2 ms (Beats 97.10%) | 43.14 MB (Beats 80.35%) |
 | [36. Valid Sudoku](./1-100/36/README.md) | Medium | 2 ms (Beats 66.79%) | 46.59 MB (Beats 47.76%) |
 | [49. Group Anagrams](./1-100/49/README.md) | Medium | 6 ms (Beats 99.26%) | 49.50 MB (Beats 89.42%) |
 | [125. Valid Palindrome](./101-200/125/README.md) | Easy | 2 ms (Beats 98.80%) | 43.94 MB (Beats 97.60%) |
