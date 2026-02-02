@@ -13,6 +13,7 @@
 | [70. Climbing Stairs](./1-100/70.md) | Easy | 0 ms (Beats 100.00%) | 42.20 MB (Beats 45.10%) |
 | [125. Valid Palindrome](./101-200/125.md) | Easy | 2 ms (Beats 98.80%) | 43.94 MB (Beats 97.60%) |
 | [128. Longest Consecutive Sequence](./101-200/128.md) | Medium | 29 ms (Beats 81.12%) | 95.79 MB (Beats 47.31%) |
+| [153. Find Minimum in Rotated Sorted Array](./101-200/153.md) | Medium | 0 ms (Beats 100.00%) | 43.65 MB (Beats 84.13%) |
 | [206. Reverse Linked List](./201-300/206.md) | Easy | 0 ms (Beats 100.00%) | 44.28 MB (Beats 58.96%) |
 | [217. Contains Duplicate](./201-300/217.md) | Easy | 10 ms (Beats 98.21%) | 98.12 MB (Beats 5.19%) |
 | [226. Invert Binary Tree](./201-300/226.md) | Easy | 0 ms (Beats 100.00%) | 42.97 MB (Beats 57.41%) |
