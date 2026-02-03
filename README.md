@@ -8,6 +8,7 @@
 | [11. Container With Most Water](./1-100/11.md) | Medium | 4 ms (Beats 93.38%) | 77.40 MB (Beats 39.28%) |
 | [15. 3Sum](./1-100/15.md) | Medium | 29 ms (Beats 91.31%) | 59.38 MB (Beats 41.06%) |
 | [20. Valid Parentheses](./1-100/20.md) | Easy | 2 ms (Beats 97.10%) | 43.14 MB (Beats 80.35%) |
+| [33. Search in Rotated Sorted Array](./1-100/33.md) | Medium | 0 ms (Beats 100.00%) | 44.21 MB (Beats 8.09%) |
 | [36. Valid Sudoku](./1-100/36.md) | Medium | 2 ms (Beats 66.79%) | 46.59 MB (Beats 47.76%) |
 | [49. Group Anagrams](./1-100/49.md) | Medium | 6 ms (Beats 99.26%) | 49.50 MB (Beats 89.42%) |
 | [70. Climbing Stairs](./1-100/70.md) | Easy | 0 ms (Beats 100.00%) | 42.20 MB (Beats 45.10%) |
