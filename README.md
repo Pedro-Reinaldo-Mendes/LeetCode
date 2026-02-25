@@ -25,3 +25,4 @@
 | [791. Custom Sort String](./701-800/791.md) | Medium | 4 ms (Beats 24.16%) | 43.10 MB (Beats 44.69%) |
 | [977. Squares of a Sorted Array](./901-1000/977.md) | Easy | 1 ms (Beats 99.83%) | 47.17 MB (Beats 83.05%) |
 | [1603. Design Parking System](./1601-1700/1603.md) | Easy | 7 ms (Beats 99.90%) | 47.34 MB (Beats 8.51%) |
+| [3484. Design Spreadsheet](./3401-3500/3484.md) | Medium | 121 ms (Beats 58.93%) | 84.40 MB (Beats 36.83%) |
