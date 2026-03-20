@@ -22,6 +22,7 @@
 | [242. Valid Anagram](./201-300/242.md) | Easy | 2ms (Beats 99.25%) | 44.62MB (Beats 52.95%) |
 | [258. Add Digits](./201-300/258.md) | Easy | 1 ms (Beats 97.66%) | 42.26 MB (Beats 97.04%) |
 | [347. Top K Frequent Elements](./301-400/347.md) | Medium | 11 ms (Beats 94.67%) | 47.22 MB (Beats 96.04%) |
+| [543. Diameter of Binary Tree](./501-600/543.md) | Easy | 1 ms (Beats 44.12%) | 46.76 MB (Beats 94.80%) |
 | [791. Custom Sort String](./701-800/791.md) | Medium | 4 ms (Beats 24.16%) | 43.10 MB (Beats 44.69%) |
 | [977. Squares of a Sorted Array](./901-1000/977.md) | Easy | 1 ms (Beats 99.83%) | 47.17 MB (Beats 83.05%) |
 | [1603. Design Parking System](./1601-1700/1603.md) | Easy | 7 ms (Beats 99.90%) | 47.34 MB (Beats 8.51%) |
