@@ -15,6 +15,7 @@
 | [121. Best Time to Buy and Sell Stock](./101-200/121.md) | Easy | 1 ms (Beats 99.87%) | 94.60 MB (Beats 44.23%) |
 | [125. Valid Palindrome](./101-200/125.md) | Easy | 2 ms (Beats 98.80%) | 43.94 MB (Beats 97.60%) |
 | [128. Longest Consecutive Sequence](./101-200/128.md) | Medium | 29 ms (Beats 81.12%) | 95.79 MB (Beats 47.31%) |
+| [141. Linked List Cycle](./101-200/141.md) | Easy | 0 ms (Beats 100.00%) | 47.02 MB (Beats 10.79%) |
 | [153. Find Minimum in Rotated Sorted Array](./101-200/153.md) | Medium | 0 ms (Beats 100.00%) | 43.65 MB (Beats 84.13%) |
 | [167. Two Sum II - Input Array Is Sorted](./101-200/167.md) | Medium | 2 ms (Beats 96.38%) | 48.18 MB (Beats 93.72%) |
 | [206. Reverse Linked List](./201-300/206.md) | Easy | 0 ms (Beats 100.00%) | 44.28 MB (Beats 58.96%) |
