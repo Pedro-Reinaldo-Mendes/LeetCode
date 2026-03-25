@@ -21,7 +21,9 @@
 | [238. Product of Array Except Self](./201-300/238.md) | Medium | 2 ms (Beats 94.29%) | 72.43 MB (Beats 11.95%) |
 | [242. Valid Anagram](./201-300/242.md) | Easy | 2ms (Beats 99.25%) | 44.62MB (Beats 52.95%) |
 | [258. Add Digits](./201-300/258.md) | Easy | 1 ms (Beats 97.66%) | 42.26 MB (Beats 97.04%) |
+| [268. Missing Number](./201-300/268.md) | Easy | 5 ms (Beats 20.88%) | 47.40 MB (Beats 60.59%) |
 | [347. Top K Frequent Elements](./301-400/347.md) | Medium | 11 ms (Beats 94.67%) | 47.22 MB (Beats 96.04%) |
+| [378. Kth Smallest Element in a Sorted Matrix](./301-400/378.md) | Medium | 17 ms (Beats 49.76%) | 50.84 MB (Beats 76.79%) |
 | [791. Custom Sort String](./701-800/791.md) | Medium | 4 ms (Beats 24.16%) | 43.10 MB (Beats 44.69%) |
 | [977. Squares of a Sorted Array](./901-1000/977.md) | Easy | 1 ms (Beats 99.83%) | 47.17 MB (Beats 83.05%) |
 | [1603. Design Parking System](./1601-1700/1603.md) | Easy | 7 ms (Beats 99.90%) | 47.34 MB (Beats 8.51%) |
