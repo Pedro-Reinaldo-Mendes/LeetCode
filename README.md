@@ -28,6 +28,7 @@
 | [268. Missing Number](./201-300/268.md) | Easy | 5 ms (Beats 20.88%) | 47.40 MB (Beats 60.59%) |
 | [347. Top K Frequent Elements](./301-400/347.md) | Medium | 11 ms (Beats 94.67%) | 47.22 MB (Beats 96.04%) |
 | [378. Kth Smallest Element in a Sorted Matrix](./301-400/378.md) | Medium | 17 ms (Beats 49.76%) | 50.84 MB (Beats 76.79%) |
+| [383. Ransom Note](./301-400/383.md) | Easy | 1 ms (Beats 99.90%) | 46.44 MB (Beats 66.41%) |
 | [412. Fizz Buzz](./401-500/412.md) | Easy | 1 ms (Beats 99.94%) | 46.64 MB (Beats 90.12%) |
 | [459. Repeated Substring Pattern](./401-500/459.md) | Easy | 31 ms (Beats 72.97%) | 46.54 MB (Beats 91.97%) |
 | [791. Custom Sort String](./701-800/791.md) | Medium | 4 ms (Beats 24.16%) | 43.10 MB (Beats 44.69%) |
