@@ -27,6 +27,7 @@
 | [347. Top K Frequent Elements](./301-400/347.md) | Medium | 11 ms (Beats 94.67%) | 47.22 MB (Beats 96.04%) |
 | [378. Kth Smallest Element in a Sorted Matrix](./301-400/378.md) | Medium | 17 ms (Beats 49.76%) | 50.84 MB (Beats 76.79%) |
 | [412. Fizz Buzz](./401-500/412.md) | Easy | 1 ms (Beats 99.94%) | 46.64 MB (Beats 90.12%) |
+| [459. Repeated Substring Pattern](./401-500/459.md) | Easy | 31 ms (Beats 72.97%) | 46.54 MB (Beats 91.97%) |
 | [791. Custom Sort String](./701-800/791.md) | Medium | 4 ms (Beats 24.16%) | 43.10 MB (Beats 44.69%) |
 | [824. Goat Latin](./801-900/824.md) | Easy | 2 ms (Beats 89.89%) | 43.08 MB (Beats 91.16%) |
 | [977. Squares of a Sorted Array](./901-1000/977.md) | Easy | 1 ms (Beats 99.83%) | 47.17 MB (Beats 83.05%) |
