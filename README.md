@@ -11,6 +11,7 @@
 | [33. Search in Rotated Sorted Array](./1-100/33.md) | Medium | 0 ms (Beats 100.00%) | 44.21 MB (Beats 8.09%) |
 | [36. Valid Sudoku](./1-100/36.md) | Medium | 2 ms (Beats 66.79%) | 46.59 MB (Beats 47.76%) |
 | [49. Group Anagrams](./1-100/49.md) | Medium | 6 ms (Beats 99.26%) | 49.50 MB (Beats 89.42%) |
+| [53. Maximum Subarray](./1-100/53.md) | Medium | 1 ms (Beats 99.93%) | 76.90 MB (Beats 96.86%) |
 | [70. Climbing Stairs](./1-100/70.md) | Easy | 0 ms (Beats 100.00%) | 42.20 MB (Beats 45.10%) |
 | [121. Best Time to Buy and Sell Stock](./101-200/121.md) | Easy | 1 ms (Beats 99.87%) | 94.60 MB (Beats 44.23%) |
 | [125. Valid Palindrome](./101-200/125.md) | Easy | 2 ms (Beats 98.80%) | 43.94 MB (Beats 97.60%) |
