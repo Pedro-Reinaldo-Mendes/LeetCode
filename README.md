@@ -13,6 +13,7 @@
 | [49. Group Anagrams](./1-100/49.md) | Medium | 6 ms (Beats 99.26%) | 49.50 MB (Beats 89.42%) |
 | [53. Maximum Subarray](./1-100/53.md) | Medium | 1 ms (Beats 99.93%) | 76.90 MB (Beats 96.86%) |
 | [70. Climbing Stairs](./1-100/70.md) | Easy | 0 ms (Beats 100.00%) | 42.20 MB (Beats 45.10%) |
+| [88. Merge Sorted Array](./1-100/88.md) | Easy | 0 ms (Beats 100.00%) | 43.45 MB (Beats 96.72%) |
 | [121. Best Time to Buy and Sell Stock](./101-200/121.md) | Easy | 1 ms (Beats 99.87%) | 94.60 MB (Beats 44.23%) |
 | [125. Valid Palindrome](./101-200/125.md) | Easy | 2 ms (Beats 98.80%) | 43.94 MB (Beats 97.60%) |
 | [128. Longest Consecutive Sequence](./101-200/128.md) | Medium | 29 ms (Beats 81.12%) | 95.79 MB (Beats 47.31%) |
@@ -31,6 +32,7 @@
 | [383. Ransom Note](./301-400/383.md) | Easy | 1 ms (Beats 99.90%) | 46.44 MB (Beats 66.41%) |
 | [412. Fizz Buzz](./401-500/412.md) | Easy | 1 ms (Beats 99.94%) | 46.64 MB (Beats 90.12%) |
 | [459. Repeated Substring Pattern](./401-500/459.md) | Easy | 31 ms (Beats 72.97%) | 46.54 MB (Beats 91.97%) |
+| [543. Diameter of Binary Tree](./501-600/543.md) | Easy | 1 ms (Beats 44.12%) | 46.76 MB (Beats 94.80%) |
 | [791. Custom Sort String](./701-800/791.md) | Medium | 4 ms (Beats 24.16%) | 43.10 MB (Beats 44.69%) |
 | [824. Goat Latin](./801-900/824.md) | Easy | 2 ms (Beats 89.89%) | 43.08 MB (Beats 91.16%) |
 | [977. Squares of a Sorted Array](./901-1000/977.md) | Easy | 1 ms (Beats 99.83%) | 47.17 MB (Beats 83.05%) |
